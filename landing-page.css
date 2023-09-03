@@ -1,0 +1,46 @@
+.orange-background{
+  background-color: rgb(249, 98, 29);
+  margin-top: 0px;
+  background-image: url(assets/Group\ 44.svg);
+  background-repeat: no-repeat;
+
+}
+
+.reccs-title{
+  font-family: Proxima Nova Extra Wide;
+  font-size: 300px;
+  font-style: normal;
+  font-weight: 700;
+  color: white;
+}
+
+
+.landing-page-demo-description{
+  display: flex;
+  flex-direction: row;
+  color: white;
+  justify-content: space-between;
+}
+
+.demo-background{
+  border-radius: 19.171px;
+  background: linear-gradient(152deg, rgba(255, 255, 255, 0.30) 0.74%, rgba(255, 255, 255, 0.09) 95.79%);
+  backdrop-filter: blur(14.378453254699707px);
+  padding: 50px 24px 50px 24px;
+}
+
+.demo-title-text{
+  font-size: 28px;
+  font-weight: 700;
+  margin-bottom: 30px;
+}
+
+.landing-page-description{
+  width: 725px;
+  /*background-color: lightblue;*/
+}
+
+.landing-page-description-text{
+  font-size: 32px;
+  text-align: right;
+}
