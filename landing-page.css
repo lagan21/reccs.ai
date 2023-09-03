@@ -12,6 +12,16 @@
   font-style: normal;
   font-weight: 700;
   color: white;
+
+  &::before {
+    content: "RECCS";
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    color: transparent;
+    -webkit-text-stroke: 3px black;
+    pointer-events: none;
+  }
 }
 
 
