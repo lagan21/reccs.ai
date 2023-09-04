@@ -6,4 +6,9 @@ p{
 
 body{
   margin: 0px;
+  overflow: hidden; 
+}
+
+.page-container{
+  padding-top: 0px; /* Add your desired padding here */
 }
