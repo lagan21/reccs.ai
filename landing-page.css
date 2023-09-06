@@ -23,7 +23,7 @@
   &::before {
     content: "RECCS";
     position: absolute;
-    top: 105px;
+    top: 135px;
     left: 5px;
     color: transparent;
     -webkit-text-stroke: 3px black;
@@ -36,19 +36,6 @@
   flex-direction: row;
   color: white;
   justify-content: space-between;
-}
-
-.demo-background{
-  border-radius: 19.171px;
-  background: linear-gradient(152deg, rgba(255, 255, 255, 0.30) 0.74%, rgba(255, 255, 255, 0.09) 95.79%);
-  backdrop-filter: blur(14.378453254699707px);
-  padding: 50px 24px 50px 24px;
-}
-
-.demo-title-text{
-  font-size: 28px;
-  font-weight: 700;
-  margin-bottom: 30px;
 }
 
 .landing-page-description{
@@ -65,8 +52,7 @@
   letter-spacing: -0.352px;
 }
 
-.demo{
-  display: flex;
-  flex-direction: column;
-  margin-left: 100px;
+.landing-page-graphic{
+  font-size: 200px;
+  height: 450px;
 }
