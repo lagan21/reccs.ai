@@ -5,7 +5,7 @@
   background-color: #121824;
   background-image: url(assets/shapes-1.svg);
   background-repeat: no-repeat;
-
+  padding-bottom: 100px;
 }
 
 .personal-dance-coach-heading{
@@ -16,6 +16,7 @@
 .personal-dance-coach-text{
   font-size: 40px;
   color: #BAFE83;
+  text-align: center;
 }
 
 .AI-to-improve-dance-subtitle{
@@ -26,6 +27,7 @@
   font-size: 32px;
   font-weight: 600;
   color: white;
+  text-align: center;
 }
 
 .demo{

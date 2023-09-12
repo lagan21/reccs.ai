@@ -1,0 +1,44 @@
+.science-container{
+    background-color: #BAFE83;
+}
+
+.science-behind-dance-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.science-behind-dance-text{
+    font-size: 100px;
+    font-weight: 700;
+    color: #127AFF;
+    flex: 1;
+    padding-top: 270px;
+    text-shadow:
+    #5200FF,
+    -1px -1px 0 #5200FF, /* Top-left offset */
+    1px -1px 0 #5200FF,  /* Top-right offset */
+    -1px 1px 0 #5200FF,  /* Bottom-left offset */
+    1px 1px 0 #5200FF;   /* Bottom-right offset */
+  
+    /*
+    &::before {
+      content: "The Science Behind Dance";
+      position: absolute;
+      top: 4880px;
+      left: 5px;
+      color: transparent;
+      -webkit-text-stroke: 1px #5200FF;
+      pointer-events: none;
+    }*/
+}
+
+.science-container{
+    position: relative;
+}
+
+.hearts-container{
+    position: absolute;
+    top: -90px;
+}
