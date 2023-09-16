@@ -15,9 +15,10 @@
     color: #127AFF;
     flex: 1;
     padding-top: 270px;
+    text-align: center;
     text-shadow:
     #5200FF,
-    -1px -1px 0 #5200FF, /* Top-left offset */
+    -3px -3px 0 #5200FF, /* Top-left offset */
     1px -1px 0 #5200FF,  /* Top-right offset */
     -1px 1px 0 #5200FF,  /* Bottom-left offset */
     1px 1px 0 #5200FF;   /* Bottom-right offset */
@@ -42,3 +43,34 @@
     position: absolute;
     top: -90px;
 }
+
+.science-behind-dance--description-text{
+    text-align: center;
+    font-weight: 600;
+    line-height: 150%;  
+    color: #121824;
+}
+
+.science-card-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.science-card-background{
+    display: flex;
+    flex-direction: column;
+    border-radius: 12px;
+    background: linear-gradient(156deg, #FFF 3.02%, rgba(18, 24, 36, 0.00) 105.44%);
+}
+
+.science-card-image-container{
+    border-radius: 8px;
+}
+.science-card-image{
+    width: 300px;
+    padding: 30px 30px 30px 30px;
+}
+
+
+
+
