@@ -43,7 +43,8 @@
   width: 725px;
   /*background-color: lightblue;*/
   justify-content: center;
-  margin-right: 150px;
+  padding-top: 50px;
+  margin-right: 120px;
 }
 
 .landing-page-description-text{

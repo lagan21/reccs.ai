@@ -1,5 +1,8 @@
 .science-container{
     background-color: #BAFE83;
+    padding-bottom: 50px;
+    position: relative;
+    z-index: 2;
 }
 
 .science-behind-dance-container{
