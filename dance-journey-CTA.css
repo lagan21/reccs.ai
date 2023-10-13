@@ -5,7 +5,7 @@
     flex-direction: column;
     border: none;
     background-color: #121824;
-    background-image: url(assets/Vector.svg);
+   /* background-image: url(assets/Vector.svg);*/
     background-repeat: no-repeat;
     padding-bottom: 100px;
 }
@@ -42,6 +42,8 @@
 .backed-by-container{
     padding-top: 120px;
     background-color: #121824;
+    /*background-image: url(assets/Vector.svg);
+    background-repeat: no-repeat;*/
 }
 
 .backed-by-text{

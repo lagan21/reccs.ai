@@ -61,6 +61,7 @@
 
 .demo-video-image{
   width: 860px;
+  border-radius: 8px;
 }
 
 .demo-more-like-this-text{
@@ -140,6 +141,8 @@
 .info-card-picture{
   margin: 70px;
   height: 336px;
+  width: 336px;
   border-radius: 8px;
+  object-fit: cover;
 }
 
