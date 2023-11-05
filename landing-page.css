@@ -39,13 +39,15 @@
   justify-content: space-between;
 }
 
-.landing-page-description{
-  width: 725px;
-  /*background-color: lightblue;*/
-  justify-content: center;
-  padding-top: 50px;
-  margin-right: 120px;
-}
+  .landing-page-description{
+    width: 70%; /* Adjust percentage as needed */
+    max-width: 725px; 
+    /*width: 725px; */
+    /*background-color: lightblue;*/
+    justify-content: center;
+    padding-top: 50px;
+    margin-right: 120px;
+  }
 
 .landing-page-description-text{
   font-size: 32px;
