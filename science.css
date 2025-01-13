@@ -24,17 +24,7 @@
     1px -1px 0 #5200FF,  /* Top-right offset */
     -1px 1px 0 #5200FF,  /* Bottom-left offset */
     1px 1px 0 #5200FF;   /* Bottom-right offset */
-  
-    /*
-    &::before {
-      content: "The Science Behind Dance";
-      position: absolute;
-      top: 4880px;
-      left: 5px;
-      color: transparent;
-      -webkit-text-stroke: 1px #5200FF;
-      pointer-events: none;
-    }*/
+
 }
 
 .science-container{
